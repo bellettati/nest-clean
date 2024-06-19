@@ -31,3 +31,8 @@ Authorization: Bearer {{accessToken}}
     "title": "some title",
     "content": "some content"
 }
+
+###
+# @name fetch_questions
+GET {{baseUrl}}/questions
+Authorization: Bearer {{accessToken}}
