@@ -22,4 +22,4 @@ import { HashComparer } from '@/domain/forum/application/cryptography/hash-compa
     ],
     exports: [HashGenerator, HashComparer, Encrypter],
 })
-export class CryptogrpahyModule {}
+export class CryptographyModule {}
